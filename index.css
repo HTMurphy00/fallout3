@@ -3,13 +3,10 @@ body{
 	background-size: 100% 100%;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
-	font-family: Roboto, Arial, sans-serif;
+	font-family: Courier, Arial, sans-serif;
 }
 
-h1{
-	color: #FFFFFF;
-    text-shadow: 2px 2px #000000;
-	font-size: 40px;
+.h1{
 	float: right;
 
 }
@@ -29,7 +26,30 @@ margin: 15px 15px 15px 15px;
 font-size: 15px;
 }
 
+.newt{
+	display: block;
+	margin: auto;
+	padding-top: 20px;
+}
+
+.newq{
+	display: block;
+	margin: auto;
+	padding-top: 2px;
+}
+
+.newq2{
+	display: block;
+	margin: auto;
+}
+
 .logo{
+	display: block;
+	margin: auto;
+}
+
+.logo2{
+	padding-top: 20px;
 	display: block;
 	margin: auto;
 }
