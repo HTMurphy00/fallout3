@@ -1,0 +1,82 @@
+body{
+	background-image: url("https://fallout.gamepedia.com/media/fallout.gamepedia.com/9/92/Gterminal.png");
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	font-family: Roboto, Arial, sans-serif;
+}
+
+h1{
+	color: #FFFFFF;
+    text-shadow: 2px 2px #000000;
+	font-size: 40px;
+	float: right;
+
+}
+
+h2{
+	text-align: center;
+	font-size: 35px;
+}
+
+h3{
+	text-align: center;
+}
+
+p{
+text-align: center;
+margin: 15px 15px 15px 15px;
+font-size: 15px;
+}
+
+.logo{
+	display: block;
+	margin: auto;
+}
+
+table{
+	width: 100%;
+	 border: 1px solid black;
+}
+
+th {
+	border: 1px solid black;
+}
+
+td{
+	border: 1px solid black;
+}
+
+a{
+	color: black;
+	
+}
+
+a:hover{
+	color: green;
+}
+
+.middle{
+	background-color: #FFFFFF;
+	margin: auto;
+	width: 800px; 	
+}
+
+.header{
+	width: 100%;
+	background-image: url("https://images.greenmangaming.com/4cb5073b55dc4cc1b0e68d708b36ee0a/2b6533bf59294e68a4373715df280b9b.jpg");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+
+.links{
+	width: 100%;
+}
+
+.maincontent{
+	width: 100%;
+}
+
+.footer{
+	width:100%;
+}
