@@ -29,7 +29,14 @@ font-size: 15px;
 .newt{
 	display: block;
 	margin: auto;
-	padding-top: 20px;
+	padding-top: 45px;
+}
+
+.noot{
+		display: block;
+	margin: auto;
+	padding-top: 45px;
+	padding-bottom: 25px;
 }
 
 .newq{
