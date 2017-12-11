@@ -75,6 +75,11 @@ th {
 	border: 1px solid black;
 	width: 200px;
 	font-weight: bold;
+	background-color: #DCDCDC;
+}
+
+th:active{
+	background-color: 606060;
 }
 
 .t1{
@@ -91,7 +96,7 @@ a{
 }
 
 a:hover{
-	color: green;
+	background-color: 606060;
 }
 
 .middle{
